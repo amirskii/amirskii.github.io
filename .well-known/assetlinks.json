@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bunz",
+    "sha256_cert_fingerprints":
+    ["96:41:38:99:14:B8:DC:1F:83:8C:57:A5:24:51:26:4C:C4:7B:4A:78:BC:7B:DB:25:3A:FA:9A:C3:CA:6D:17:8F"]
+  }
+}]
